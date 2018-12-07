@@ -1,0 +1,10 @@
+---
+layout: artwork
+categories: "2018"
+author: Jihoon Ha
+title: "gemstone isle #21"
+caption: "gemstone isle #21_acrylic,oil on canvas_73×73㎝_2018"
+image: /assets/images/artworks/artwork152.jpg
+thumb: /assets/images/artworks/thumbs/artwork152.jpg
+order: 2018015
+---
