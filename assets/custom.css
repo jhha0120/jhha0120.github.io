@@ -1,0 +1,146 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
+
+/* Fix fonts */
+li, p, a, span, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans KR', 'Nanum Barun Gothic', 'Nanum Gothic', 'Malgun Gothic', 'Dotum', sans-serif;
+  color: #333333;
+}
+
+/* site header */
+.global-wrapper .site-header {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Fix nav height */
+.global-wrapper .site-header {
+  height: 9rem;
+}
+
+.global-wrapper .site-header h1 {
+  font-size: 1.8rem;
+  line-height: 2;
+}
+
+.navigation {
+  flex-grow: 1;
+}
+
+.navigation nav {
+  float: right;
+}
+
+.navigation a {
+  color: #666666;
+}
+
+.global-wrapper .site-header .navigation .nav-main .nav-sub {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 48em;
+    justify-content: flex-end;
+}
+.global-wrapper .site-header .navigation .nav-main .active .nav-sub {
+  display: flex;
+}
+
+.global-wrapper .site-header .navigation .nav-main > li .nav-sub {
+  margin: 0;
+  padding: 0;
+  right: 0;
+  flex-wrap: nowrap;
+}
+.global-wrapper .site-header .navigation .nav-main > li:hover .nav-sub {
+  display: flex;
+}
+.global-wrapper .site-header .navigation .nav-main > li .nav-sub > li {
+  float: none;
+}
+
+.nav-sub a {
+  vertical-align: middle;
+}
+@media (max-width: 640px) {
+  .global-wrapper .site-header .navigation .nav-main .nav-sub {
+    width: 96vw;
+  }
+  .nav-sub a {
+    font-size: 0.8rem;
+  }
+}
+/* artworks */
+.global-wrapper .site-content .posts-content .artworks-list li a .thumb-image {
+    background-position: left bottom;
+}
+
+.global-wrapper .site-content .posts-content .artworks-list li .caption {
+  display: block;
+  width: 90%;
+  margin-left: 10%;
+  font-size: 0.6rem;
+  text-align: left;
+}
+
+/* change thumbnail size of o.T(2018) artworks */
+.global-wrapper .site-content .posts-content .artworks-list li a .thumb-image {
+  margin-left: 10%;
+}
+.global-wrapper .site-content .posts-content .artworks-list .order-2018004 a .thumb-image,
+.global-wrapper .site-content .posts-content .artworks-list .order-2018003 a .thumb-image,
+.global-wrapper .site-content .posts-content .artworks-list .order-2018002 a .thumb-image,
+.global-wrapper .site-content .posts-content .artworks-list .order-2018001 a .thumb-image {
+  width: 60%;
+}
+
+
+/* texts */
+.text-content {
+  width: 70%;
+}
+.global-wrapper .site-content .text-wrapper aside {
+  right: 30%;
+}
+@media (max-width: 1024px) {
+  .text-content {
+    width: 90%;
+  }
+  .global-wrapper .site-content .text-wrapper aside {
+    right: 0;
+  }
+}
+@media (max-width: 640px) {
+  .text-content {
+    width: 100%;
+  }
+}
+
+/* artwork and text */
+/* Fix overay back button issue on tablet */
+@media (max-width: 1024px) {
+  .global-wrapper .site-content .post-wrapper aside {
+      top: -2rem;
+  }
+}
+
+/* artwork */
+@media (max-width: 640px) {
+  .global-wrapper .site-content .artwork-wrapper .artwork-content .artwork-image p {
+    font-size: 0.6rem;
+  }
+}
+
+/* contact */
+.page-contact ul {
+  margin-left: 2rem;
+}
+
+.global-wrapper .site-content.page-contact .page-wrapper .page-content ul li {
+  list-style: square;
+  line-height: 2rem;
+}
+
+/* cv */
+.about-info p:nth-child(1) {
+  display: none;
+}

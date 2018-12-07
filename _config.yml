@@ -1,0 +1,7 @@
+title: JIHOON HA
+description: ~
+permalink: none
+remote_theme: jekyll-theme-lightning/lightning
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed

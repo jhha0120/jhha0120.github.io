@@ -1,0 +1,10 @@
+---
+layout: artwork 
+categories: "2010-2011"
+author: Jihoon Ha 
+title: fortress &#35;5 
+caption: fortress &#35;5_oil on canvas_130×160㎝_2010 
+image: /assets/images/artworks/artwork032.jpg 
+thumb: /assets/images/artworks/thumbs/artwork032.jpg 
+order: 1011024 
+---

@@ -1,0 +1,23 @@
+items:
+  - title: artwork
+    url: /artwork/2018
+    subitems:
+      - title: 2018
+        url: /artwork/2018
+      - title: 2017
+        url: /artwork/2017
+      - title: 2015-2016
+        url: /artwork/2015-2016
+      - title: 2012-2014
+        url: /artwork/2012-2014
+      - title: 2010-2011
+        url: /artwork/2010-2011
+      - title: 2007-2009
+        url: /artwork/2007-2009
+  - title: text
+    url: /texts
+  - title: cv
+    url: /cv
+  - title: contact
+    url: /contact
+

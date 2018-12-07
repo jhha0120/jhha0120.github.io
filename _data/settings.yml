@@ -1,0 +1,7 @@
+locale: ~
+navigation:
+  uppercase: true
+text:
+  showDate: false
+footer:
+  copyright: ~
