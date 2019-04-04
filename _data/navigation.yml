@@ -2,6 +2,8 @@ items:
   - title: artwork
     url: /artwork/2018
     subitems:
+      - title: 2019
+        url: /artwork/2019
       - title: 2018
         url: /artwork/2018
       - title: 2017
@@ -20,4 +22,3 @@ items:
     url: /cv
   - title: contact
     url: /contact
-
