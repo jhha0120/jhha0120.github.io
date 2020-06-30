@@ -44,6 +44,7 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
     display: flex;
     flex-wrap: nowrap;
     width: 48em;
+    max-width: 100%;
     justify-content: flex-end;
 }
 .global-wrapper .site-header .navigation .nav-main .active .nav-sub {
