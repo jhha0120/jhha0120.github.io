@@ -44,7 +44,6 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
     display: flex;
     flex-wrap: nowrap;
     width: 48em;
-    max-width: 100%;
     justify-content: flex-end;
 }
 .global-wrapper .site-header .navigation .nav-main .active .nav-sub {
@@ -56,16 +55,21 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
   padding: 0;
   right: 0;
   flex-wrap: nowrap;
+  background-color: #fff;
+  overflow: visible;
 }
-.global-wrapper .site-header .navigation .nav-main > li:hover .nav-sub {
+.global-wrapper .site-header .navigation .nav-main > li:hover .current-hover-item {
   display: flex;
-}
-.global-wrapper .site-header .navigation .nav-main > li:hover ~ .active .nav-sub {
-  display: none;
+  z-index: 999
 }
 
 .global-wrapper .site-header .navigation .nav-main > li .nav-sub > li {
   float: none;
+}
+
+.global-wrapper .site-header .navigation .nav-main > li:hover .nav-sub {
+  display: flex;
+  z-index: 999;
 }
 
 .nav-sub a {
@@ -73,8 +77,8 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 640px) {
   .global-wrapper .site-header .navigation .nav-main .nav-sub {
-    width: 96vw;
-  }
+    width: 100%;
+}
   .nav-sub a {
     font-size: 0.8rem;
   }
