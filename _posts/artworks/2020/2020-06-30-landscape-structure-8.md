@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "landscape-structure #8(corsica)"
 caption: "landscape-structure #8(corsica)_acrylic oil on canvas_117×91㎝_2020"

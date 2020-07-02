@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "landscape-structure #6"
 caption: "landscape-structure #6_acrylic oil on canvas_150×105㎝_2020"

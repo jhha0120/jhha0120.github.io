@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2010-2011"
+categories: "2011-2010"
 author: Jihoon Ha
 title: individual landscape
 caption: individual landscape_acrylic,oil on canvas_150×150㎝_2010

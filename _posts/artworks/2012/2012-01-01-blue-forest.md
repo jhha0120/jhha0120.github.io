@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2012-2014"
+categories: "2014-2012"
 author: Jihoon Ha
 title: blue forest
 caption: blue forest_acrylic,oil on canvas_227×182㎝_2012

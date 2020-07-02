@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2010-2011"
+categories: "2011-2010"
 author: Jihoon Ha
 title: "individual landscape #3"
 caption: "individual landscape #3_oil on canvas_32×32㎝_2011"

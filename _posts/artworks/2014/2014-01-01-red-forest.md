@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2012-2014"
+categories: "2014-2012"
 author: Jihoon Ha
 title: red forest
 caption: red forest_oil on canvas_112×162㎝_2014

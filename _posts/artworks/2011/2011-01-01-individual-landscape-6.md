@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2010-2011"
+categories: "2011-2010"
 author: Jihoon Ha
 title: "individual landscape #6"
 caption: "individual landscape #6_oil on paper_25×25㎝_2011"

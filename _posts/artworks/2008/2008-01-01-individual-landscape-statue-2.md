@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2007-2009"
+categories: "2009-2007"
 author: Jihoon Ha
 title: "statue #2"
 caption: "statue #2_oil on canvas_70×70㎝_2008"

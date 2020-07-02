@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "gemstone isle #27"
 caption: "gemstone isle #27_acrylic_oil on canvas_150×105㎝_2019"

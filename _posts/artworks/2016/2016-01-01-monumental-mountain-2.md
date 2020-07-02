@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2015-2016"
+categories: "2016-2015"
 author: Jihoon Ha
 title: "monumental mountain #2"
 caption: "monumental mountain #2_acrylic,oil on canvas_205×205㎝_2016"
