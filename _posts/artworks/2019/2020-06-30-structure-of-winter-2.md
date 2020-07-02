@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "structure of winter #2"
 caption: "structure of winter #2_oil on canvas_33×24㎝_2019"

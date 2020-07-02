@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2007-2009"
+categories: "2009-2007"
 author: Jihoon Ha
 title: promenade
 caption: promenade_oil on canvas_130×160㎝_2008

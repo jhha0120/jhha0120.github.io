@@ -60,6 +60,10 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
 .global-wrapper .site-header .navigation .nav-main > li:hover .nav-sub {
   display: flex;
 }
+.global-wrapper .site-header .navigation .nav-main > li:hover ~ .active .nav-sub {
+  display: none;
+}
+
 .global-wrapper .site-header .navigation .nav-main > li .nav-sub > li {
   float: none;
 }

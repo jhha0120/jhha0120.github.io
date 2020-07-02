@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2007-2009"
+categories: "2009-2007"
 author: Jihoon Ha
 title: heilige allegorie
 caption: heilige allegorie_oil on canvas_70×70㎝_2007

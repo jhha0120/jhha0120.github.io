@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: cv-ko
 title: Jihoon Ha(하지훈, 河芝勳)
-permalink: /cv
+permalink: /cv-ko
 navItemTitle: cv
 og:
   title: CV - Jihoon Ha

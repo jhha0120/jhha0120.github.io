@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "gemstone isle #43-Kyoto"
 caption: "gemstone isle #43-Kyoto_acrylic oil on canvas_227×182㎝_2019"

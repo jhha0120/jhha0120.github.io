@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2015-2016"
+categories: "2016-2015"
 author: Jihoon Ha
 title: canyon statue
 caption: canyon statue_acrylic,oil on canvas_210×600㎝_2016

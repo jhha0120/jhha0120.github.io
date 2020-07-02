@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2019-2020"
+categories: "2020-2019"
 author: "Jihoon Ha"
 title: "landscape-structure #23(Aix-en-Provence)"
 caption: "landscape-structure #23(Aix-en-Provence)_acrylic oil on canvas_91×117㎝_2020"

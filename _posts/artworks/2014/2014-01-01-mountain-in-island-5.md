@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2012-2014"
+categories: "2014-2012"
 author: Jihoon Ha
 title: "mountain in island #5"
 caption: "mountain in island #5_oil on canvas_32×41㎝_2014"

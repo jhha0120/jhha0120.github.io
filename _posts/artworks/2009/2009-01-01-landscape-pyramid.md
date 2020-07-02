@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2007-2009"
+categories: "2009-2007"
 author: Jihoon Ha
 title: landscape-pyramid
 caption: landscape-pyramid_acrylic,oil on canvas_150×150㎝_2009
