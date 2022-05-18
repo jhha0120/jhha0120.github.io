@@ -22,6 +22,14 @@ exhibitionsKo:
     title: 단체전
     list:
       - 2022 풍경 변주, 인갤러리,서울
+      - 2021 취향의 발견, 페이토 갤러리,서울
+      - 2021 장소의 기억, 슈페리어 갤러리,서울
+      - 2021 from korean art DNA, 인디프레스 갤러리,서울
+      - 2021 이화익 갤러리 20주년 기념전, 이화익 갤러리, 서울
+      - 2021 Vague, 021 갤러리,대구
+      - 2021 Abstract-ing, 신세계 갤러리,부산
+      - 2021 마음의 생태학, 신세계 갤러리,광주
+      - 2021 세상의 모든 드로잉, 아터테인 갤러리,서울
       - 2020 풍경 구조, 이화익 갤러리,서울
       - 2020 Balanced vol.2, 비트리 갤러리,서울
       - 2020 황금 삼각지대, 아터테인 갤러리,서울
@@ -84,6 +92,7 @@ exhibitionsKo:
       - 금호미술관
       - 영은미술관
       - 코오롱 스페이스K
+      - 수원가정법원
       - 쿤스트하우스 클로스터 그라벤호어스트, 회어스텔/독일
       - WGZ 은행, 뒤쎌도르프/독일
       - Landwirtschaftsverlag GmbH, 뮌스터/독일
@@ -108,6 +117,13 @@ exhibitions:
     title: Group Exhibition(selected)
     list:
       - 2022 Landscape Variation, IN Gallery, Seoul/Korea
+      - 2021 Discovering  Preferences, Peyto Gallery, Seoul/Korea
+      - 2021 memory of the place, Superior Gallery, Seoul/Korea
+      - 2021 from korean art DNA, Indipress Gallery,Seoul/Korea
+      - 2021 Vague, 021 Gallery,Daedu/Korea
+      - 2021 Abstract-ing, Shinsegae Gallery,Busan/Korea
+      - 2021 Annual drawing show, Artertain Gallery,Seoul/Korea
+      - 2021 Ecology of the mind, Shinsegae Gallery,Kwangju/Korea
       - 2020 Balanced vol.2, B-tree Gallery, Seoul/Korea
       - 2020 Golden Triangle, Artertain Gallery, Seoul/Korea
       - 2020 One Way Life, Total Museum of Contemporary Art, Seoul/Korea
@@ -170,6 +186,7 @@ exhibitions:
       - Kumho Museum of Art
       - Youngeun Museum of Art
       - Kolon SpaceK
+      - Suwon Family Court
       - Kunsthaus Kloster Gravenhorst
       - WGZ BANK
       - Landwirtschaftsverlag GmbH
