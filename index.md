@@ -2,7 +2,7 @@
 layout: cover
 title: ~
 permalink: /
-image: /assets/images/cover-image.jpg
+image: /assets/images/cover-image-2022.jpg
 og:
   title: JIHOON HA
   description: Jihoon Ha's artworks
