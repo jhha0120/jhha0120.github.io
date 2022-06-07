@@ -78,7 +78,7 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
 @media (max-width: 640px) {
   .global-wrapper .site-header .navigation .nav-main .nav-sub {
     width: 100%;
-}
+  }
   .nav-sub a {
     font-size: 0.8rem;
   }
@@ -89,9 +89,15 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
   width: calc(100% + 1.5rem);
   margin-left: -1rem;
 }
+
+.global-wrapper .site-content .cover-wrapper .cover-image img {
+  max-height: 72vh;
+}
+
 @media (max-width: 960px) {
   .global-wrapper .site-content .cover-wrapper .cover-image img {
     max-width: 100%;
+    max-height: fit-content;
   }
 }
 
