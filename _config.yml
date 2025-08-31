@@ -1,7 +1,7 @@
 title: JIHOON HA
 description: ~
 permalink: none
-remote_theme: jekyll-theme-lightning/lightning
+# theme 줄 제거함 - 테마가 직접 통합됨
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
