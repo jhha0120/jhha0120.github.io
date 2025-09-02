@@ -4,7 +4,7 @@ categories: "2017"
 author: Jihoon Ha
 title: "classical landscape #26"
 caption: "classical landscape #26_oil on canvas_46×53㎝_2017"
-image: /assets/images/artworks/artwork132.jpg
-thumb: /assets/images/artworks/thumbs/artwork132.jpg
+image: /assets/images/artworks/2017/artwork132.jpg
+thumb: /assets/images/artworks/2017/thumbs/artwork132.jpg
 order: 2017012
 ---
