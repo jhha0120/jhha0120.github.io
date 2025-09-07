@@ -1,7 +1,9 @@
 items:
   - title: artwork
-    url: /artwork/2023
+    url: /artwork/2024
     subitems:
+      - title: 2024
+        url: /artwork/2024
       - title: 2023
         url: /artwork/2023
       - title: 2022-2021
