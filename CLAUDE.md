@@ -12,6 +12,16 @@ This is a Jekyll-based portfolio website showcasing artworks organized by year. 
   - jekyll-seo-tag (SEO metadata management)
   - jekyll-feed (RSS feed generation)
 
+### Important: CSS Management
+- **NO SCSS**: This project does NOT use SCSS compilation
+- **Direct CSS editing**: Modify CSS files directly in `assets/css/`
+- **Main CSS files**:
+  - `assets/css/main.css` - Entry point
+  - `assets/css/layout.css` - Layout styles
+  - `assets/css/base.css` - Base styles
+  - `assets/css/fonts.css` - Font styles
+- **DO NOT** modify files in `_sass/` directory - they are not compiled
+
 ### Build System
 - Static site generator: Jekyll
 - Output directory: `_site/`
