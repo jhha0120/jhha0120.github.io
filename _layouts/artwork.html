@@ -36,6 +36,18 @@ layout: default
     {{ content }}
   </section>
   <aside>
-    <p><a href="javascript:history.go(-1)">&lt; Back</a></p>
+    {% comment %}
+      Extract category from URL path (e.g., /2012-2014/artwork-name.html)
+      The URL pattern is /YYYY-YYYY/slug.html
+    {% endcomment %}
+    {% assign url_parts = page.url | split: "/" %}
+    {% assign category_from_url = url_parts[1] %}
+    {% if category_from_url %}
+      <p><a href="/artwork/{{ category_from_url }}">&lt; Back</a></p>
+    {% else %}
+      {% comment %} Fallback to categories if URL parsing fails {% endcomment %}
+      {% assign category = page.categories | first %}
+      <p><a href="/artwork/{{ category | default: '2023-2025' }}">&lt; Back</a></p>
+    {% endif %}
   </aside>
 </article>
