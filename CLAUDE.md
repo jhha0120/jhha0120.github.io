@@ -125,6 +125,9 @@ These files define:
    - Ensure `categories` matches year
    - Set appropriate `order` value
    - Use URL-encoded paths for special characters
+   - **Caption formatting**: Use proper unit symbols (× for dimensions, ㎝ for centimeters)
+     - Example: `caption: "artwork title_medium_117×91㎝_year"`
+     - **DO NOT** use keyboard characters like "x" and "cm"
 
 ### Process for New Year
 1. Create year listing page: `artwork[year].html`
@@ -174,6 +177,9 @@ bundle exec jekyll clean
    - Use URL encoding for special characters in paths
    - Maintain consistent thumb/full image structure
    - Images are version-controlled (not generated)
+   - **File naming**: Use only basic keyboard characters in filenames (a-z, 0-9, -, _, spaces)
+     - **DO NOT** use special Unicode symbols like ×, ㎝ in image/thumb paths
+     - These symbols are for caption display only
 
 3. **Post Ordering**:
    - Uses custom `order` field, not date
