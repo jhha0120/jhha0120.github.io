@@ -7,6 +7,14 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
   <section class="post-content artwork-content">
+    <div class="artwork-nav">
+      {% if page.prev_artwork %}
+        <a href="{{ page.prev_artwork.url | relative_url }}" class="nav-link prev-link" title="{{ page.prev_artwork.title }}">&lt; prev</a>
+      {% endif %}
+      {% if page.next_artwork %}
+        <a href="{{ page.next_artwork.url | relative_url }}" class="nav-link next-link" title="{{ page.next_artwork.title }}">next &gt;</a>
+      {% endif %}
+    </div>
     {% if page.image %}
       <section class="post-image artwork-image">
         <table>
@@ -28,6 +36,6 @@ layout: default
     {{ content }}
   </section>
   <aside>
-      <p><a href="javascript:history.go(-1)">&lt; Back</a></p>
-    </aside>
+    <p><a href="javascript:history.go(-1)">&lt; Back</a></p>
+  </aside>
 </article>
