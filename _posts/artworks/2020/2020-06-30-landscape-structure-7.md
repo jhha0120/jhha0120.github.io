@@ -6,6 +6,6 @@ title: "landscape-structure #7(corsica)"
 caption: "landscape-structure #7(corsica)_acrylic oil on canvas_117×91㎝_2020"
 image: /assets/images/artworks/2020/landscape-structure-7.jpg
 thumb: /assets/images/artworks/2020/thumbs/landscape-structure-7.jpg
-order: 22070522
+order: 22070507
 sizeScore: 05
 ---

@@ -6,6 +6,6 @@ title: "classical landscape #9"
 caption: "classical landscape #9_oil on canvas_46×53㎝_2016"
 image: /assets/images/artworks/2016/artwork105.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork105.jpg
-order: 17030540
+order: 17030509
 sizeScore: 05
 ---

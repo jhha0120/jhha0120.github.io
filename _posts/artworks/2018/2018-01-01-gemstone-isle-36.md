@@ -6,6 +6,6 @@ title: "gemstone isle #36"
 caption: "gemstone isle #36_acrylic,oil on canvas_73×73㎝_2018"
 image: /assets/images/artworks/2018/gemstone-isle-36-2018.jpg
 thumb: /assets/images/artworks/2018/thumbs/gemstone-isle-36-2018.jpg
-order: 22020513
+order: 22020536
 sizeScore: 05
 ---

@@ -6,6 +6,6 @@ title: "classical landscape #38"
 caption: "classical landscape #38_oil on canvas_46×53㎝_2017"
 image: /assets/images/artworks/2017/artwork139.jpg
 thumb: /assets/images/artworks/2017/thumbs/artwork139.jpg
-order: 17030511
+order: 17030538
 sizeScore: 05
 ---
