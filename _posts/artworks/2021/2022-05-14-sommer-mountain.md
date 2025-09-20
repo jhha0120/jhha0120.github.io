@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "sommer-mountain"
 caption: "sommer-mountain_acrylic,oil on canvas_73×50㎝_2021"

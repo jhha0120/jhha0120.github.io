@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2020-2019"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "structure of flower #5"
 caption: "structure of flower #5_oil on canvas_33×24㎝_2020"

@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "landscape-structure#27"
 caption: "landscape-structure#27_acrylic,oil on canvas_91×117㎝_2021"

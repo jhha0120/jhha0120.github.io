@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2023"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "isle(mediterranean structure#9)"
 caption: "isle(mediterranean structure#9)_acrylic,oil on canvas_73x61cm_2023"

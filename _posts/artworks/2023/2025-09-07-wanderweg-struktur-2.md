@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2023"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "Wanderweg Struktur#2"
 caption: "Wanderweg Struktur#2_acrylic,oil on canvas_150x105cm_2023"

@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2014-2012"
+categories: "2012-2014"
 author: Jihoon Ha
 title: individual landscape
 caption: individual landscape_oil on canvas_70×70㎝_2012

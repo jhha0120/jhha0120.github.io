@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2017"
+categories: "2015-2017"
 author: Jihoon Ha
 title: "classical landscape #37"
 caption: "classical landscape #37_oil on canvas_46×53㎝_2017"

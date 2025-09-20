@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "ohne Titel(isle)"
 caption: "ohne Titel(isle)_oil on panel_60x45cm_2022"

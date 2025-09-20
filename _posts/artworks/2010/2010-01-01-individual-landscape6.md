@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2011-2010"
+categories: "2007-2011"
 author: Jihoon Ha
 title: 11-individual landscape
 caption: 11-individual landscape_oil on canvas_90×70㎝_2010

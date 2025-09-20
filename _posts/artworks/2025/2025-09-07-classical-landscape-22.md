@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2025"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "classical landscape#22"
 caption: "classical landscape#22_oil on canvas_46x53cm_2016-2022"

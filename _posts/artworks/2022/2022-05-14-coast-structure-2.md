@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "coast structure#2"
 caption: "coast structure#2_acrylic,oil on canvas_53×41㎝_2022"

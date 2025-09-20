@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2020-2019"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "structure of landscape #3(Marseille)"
 caption: "structure of landscape #3(Marseille)_acrylic oil on canvas_105×150㎝_2019"

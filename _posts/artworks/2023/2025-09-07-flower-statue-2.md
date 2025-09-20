@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2023"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "flower statue#2"
 caption: "flower statue#2_acrylic,oil on canvas_73x61cm_2023"

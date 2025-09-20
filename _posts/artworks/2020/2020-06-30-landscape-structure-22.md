@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2020-2019"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "landscape-structure #22"
 caption: "landscape-structure #22_oil on canvas_33×24㎝_2020"

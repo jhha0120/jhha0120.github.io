@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "mountain-structure#7"
 caption: "mountain-structure#7_oil on canvas_33×24㎝_2021"

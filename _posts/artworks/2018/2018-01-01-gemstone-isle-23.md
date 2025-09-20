@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2018"
+categories: "2018-2022"
 author: Jihoon Ha
 title: "gemstone isle #23"
 caption: "gemstone isle #23_acrylic,oil on canvas_150×105㎝_2018"

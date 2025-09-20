@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2024"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "ruins by the sea #1"
 caption: "ruins by the sea #1_acrylic,oil on canva_61x73cm_2024"

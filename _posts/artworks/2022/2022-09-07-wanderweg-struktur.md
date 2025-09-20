@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "Wanderweg Struktur"
 caption: "Wanderweg Struktur_acrylic,oil on canvas_162x130cm_2022"

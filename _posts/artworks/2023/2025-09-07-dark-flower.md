@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2023"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "dark flower"
 caption: "dark flower_oil on canvas_38x46cm_2023"

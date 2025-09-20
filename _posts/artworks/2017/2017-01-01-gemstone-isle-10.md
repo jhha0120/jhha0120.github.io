@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2017"
+categories: "2015-2017"
 author: Jihoon Ha
 title: "gemstone isle #10"
 caption: "gemstone isle #10_oil on canvas_91×117㎝_2017"

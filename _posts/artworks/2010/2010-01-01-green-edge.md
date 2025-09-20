@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2011-2010"
+categories: "2007-2011"
 author: Jihoon Ha
 title: green edge
 caption: green edge_oil on canvas_60×51㎝_2010

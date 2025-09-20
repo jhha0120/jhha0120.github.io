@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2014-2012"
+categories: "2012-2014"
 author: Jihoon Ha
 title: the big isle
 caption: the big isle_oil on canvas_131×162㎝_2014

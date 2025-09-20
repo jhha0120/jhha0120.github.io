@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2011-2010"
+categories: "2007-2011"
 author: Jihoon Ha
 title: individual landscape-forest
 caption: individual landscape-forest_oil on canvas_91×117㎝_2011

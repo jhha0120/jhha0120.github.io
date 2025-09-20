@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "Nightscape#7"
 caption: "Nightscape#7_acrylic,oil on canvas_73×61㎝_2021"

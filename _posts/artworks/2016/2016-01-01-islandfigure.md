@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2016-2015"
+categories: "2015-2017"
 author: Jihoon Ha
 title: island-figure
 caption: island-figure_oil on canvas_150×105㎝_2016

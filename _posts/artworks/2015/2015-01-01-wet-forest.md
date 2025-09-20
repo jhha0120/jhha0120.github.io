@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2016-2015"
+categories: "2015-2017"
 author: Jihoon Ha
 title: wet forest
 caption: wet forest_oil on canvas_91×117㎝_2015

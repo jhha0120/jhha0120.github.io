@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2025"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "Garden of Light#1"
 caption: "Garden of Light#1_acrylic,oil on canvas_45.5x45.5cm_2025"

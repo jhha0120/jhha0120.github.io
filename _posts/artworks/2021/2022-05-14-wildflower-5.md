@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "wildflower#5"
 caption: "wildflower#5_oil on canvas_33×24㎝_2021"

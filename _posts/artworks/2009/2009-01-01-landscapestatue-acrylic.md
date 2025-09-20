@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2009-2007"
+categories: "2007-2011"
 author: Jihoon Ha
 title: landscape-statue
 caption: landscape-statue_acrylic,_oil on canvas_165×145㎝_2009

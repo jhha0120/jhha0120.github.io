@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2025"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "Silent Enigma#1"
 caption: "Silent Enigma#1_acrylic,oil on canvas_117x91cm_2025"

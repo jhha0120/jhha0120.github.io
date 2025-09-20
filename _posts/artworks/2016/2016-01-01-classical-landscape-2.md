@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2016-2015"
+categories: "2015-2017"
 author: Jihoon Ha
 title: "classical landscape #2"
 caption: "classical landscape #2_oil on canvas_46×53㎝_2016"

@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2009-2007"
+categories: "2007-2011"
 author: Jihoon Ha
 title: statue
 caption: statue_acrylic,oil on canvas_120×105㎝_2008

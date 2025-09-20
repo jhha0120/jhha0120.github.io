@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "purple Twilight"
 caption: "purple Twilight_oil on panel_45x60cm_2022"

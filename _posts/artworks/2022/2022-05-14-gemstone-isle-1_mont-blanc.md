@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "Gemstone isle#1(Mont Blanc)"
 caption: "Gemstone isle#1(Mont Blanc)_acrylic,oil on canvas_205×205㎝_2022"

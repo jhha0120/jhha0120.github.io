@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2009-2007"
+categories: "2007-2011"
 author: Jihoon Ha
 title: botarnische garten
 caption: botarnische garten_acrylic,oil on canvas_180×220㎝_2009

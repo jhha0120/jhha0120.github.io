@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2024"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "floating isle"
 caption: "floating isle_acrylic,oil on canvas_130x162cm_2024"

@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2009-2007"
+categories: "2007-2011"
 author: Jihoon Ha
 title: unknown paradise
 caption: unknown paradise_oil on canvas_135×150㎝_2008

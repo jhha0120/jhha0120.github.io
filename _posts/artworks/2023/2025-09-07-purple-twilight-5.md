@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2023"
+categories: "2023-2025"
 author: "Jihoon Ha"
 title: "purple Twilight #5"
 caption: "purple Twilight #5_acrylic,oil on canvas_73x61cm_2023"

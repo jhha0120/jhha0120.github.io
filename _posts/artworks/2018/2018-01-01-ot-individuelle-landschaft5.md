@@ -1,6 +1,6 @@
 ---
 layout: artwork
-categories: "2018"
+categories: "2018-2022"
 author: Jihoon Ha
 title: "o.T.(individuelle landschaft)"
 caption: "o.T.(individuelle landschaft)_oil on canvas_30×30㎝_2018"

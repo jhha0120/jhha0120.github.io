@@ -1,6 +1,6 @@
 ---
 layout: "artwork"
-categories: "2022-2021"
+categories: "2018-2022"
 author: "Jihoon Ha"
 title: "Peak structure#1"
 caption: "Peak structure#1_acrylic,oil on canvas_150×105㎝_2022"
