@@ -6,5 +6,6 @@ title: "classical landscape #23"
 caption: "classical landscape #23_oil on canvas_46×53㎝_2017"
 image: /assets/images/artworks/2017/artwork129.jpg
 thumb: /assets/images/artworks/2017/thumbs/artwork129.jpg
-order: 2017015
+order: 17030526
+sizeScore: 05
 ---

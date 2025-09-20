@@ -6,5 +6,6 @@ title: "individual landscape #1"
 caption: "individual landscape #1_oil on paper_25×25㎝_2011"
 image: /assets/images/artworks/2011/artwork054.jpg
 thumb: /assets/images/artworks/2011/thumbs/artwork054.jpg
-order: 1011004
+order: 11140206
+sizeScore: 02
 ---

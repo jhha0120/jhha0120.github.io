@@ -6,5 +6,6 @@ title: "classical landscape #20"
 caption: "classical landscape #20_oil on canvas_46×53㎝_2016"
 image: /assets/images/artworks/2016/artwork113.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork113.jpg
-order: 1516002
+order: 17030529
+sizeScore: 05
 ---

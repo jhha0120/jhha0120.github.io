@@ -6,6 +6,7 @@ title: "flower statue#5"
 caption: "flower statue#5_acrylic,oil on canvas_73×61㎝_2023"
 image: "/assets/images/artworks/2023/flower%20statue%235%20acrylic%2Coil%20on%20canvas%2073x61cm%202023.jpg"
 thumb: "/assets/images/artworks/2023/thumbs/flower%20statue%235%20acrylic%2Coil%20on%20canvas%2073x61cm%202023.jpg"
-order: 80
+order: 25990501
+sizeScore: 05
 orderByYear: 2023
 ---
