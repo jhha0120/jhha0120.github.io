@@ -169,7 +169,7 @@
 
 @media (max-width: 640px) {
   .global-wrapper .site-content .post-wrapper aside {
-    top: -2rem;
+    top: -3rem;
   }
 }
 
@@ -189,21 +189,19 @@
 }
 
 .global-wrapper .site-content .artwork-wrapper .artwork-content .artwork-nav .nav-link {
-  color: #555555;
+  color: inherit;
   text-decoration: none;
-  font-size: 0.85rem;
-  transition: color 0.2s ease;
-  margin-left: 0.5rem;
+  font-size: 1rem;
+  margin-left: 1rem;
 }
 
 .global-wrapper .site-content .artwork-wrapper .artwork-content .artwork-nav .nav-link:hover {
-  color: #333333;
   text-decoration: underline;
 }
 
 @media (max-width: 640px) {
   .global-wrapper .site-content .artwork-wrapper .artwork-content .artwork-nav .nav-link {
-    font-size: 0.8rem;
+    font-size: 1rem;
     margin-left: 0.5rem;
   }
 }
