@@ -7,5 +7,5 @@ caption: island-figure_oil on canvas_150×105㎝_2016
 image: /assets/images/artworks/2016/artwork092.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork092.jpg
 order: 17990501
-sizeScore: 05
+sizeScore: 06
 ---

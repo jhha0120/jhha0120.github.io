@@ -7,5 +7,5 @@ caption: "individual landscape #6_oil on paper_25×25㎝_2011"
 image: /assets/images/artworks/2011/artwork056.jpg
 thumb: /assets/images/artworks/2011/thumbs/artwork056.jpg
 order: 11140206
-sizeScore: 02
+sizeScore: 01
 ---

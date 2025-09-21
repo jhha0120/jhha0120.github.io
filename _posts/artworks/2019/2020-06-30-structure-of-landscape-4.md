@@ -7,5 +7,5 @@ caption: "structure of landscape #4(Marseille)_acrylic oil on canvas_150×105㎝
 image: /assets/images/artworks/2019/structure-of-landscape-4.jpg
 thumb: /assets/images/artworks/2019/thumbs/structure-of-landscape-4.jpg
 order: 22180504
-sizeScore: 05
+sizeScore: 06
 ---

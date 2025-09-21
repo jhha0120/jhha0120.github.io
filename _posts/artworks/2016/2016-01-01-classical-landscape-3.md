@@ -7,5 +7,5 @@ caption: "classical landscape #3_oil on canvas_46×53㎝_2016"
 image: /assets/images/artworks/2016/artwork099.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork099.jpg
 order: 17030503
-sizeScore: 05
+sizeScore: 03
 ---

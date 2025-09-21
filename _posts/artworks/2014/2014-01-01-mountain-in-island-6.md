@@ -7,5 +7,5 @@ caption: "mountain in island #6_oil on canvas_32×41㎝_2014"
 image: /assets/images/artworks/2014/artwork079.jpg
 thumb: /assets/images/artworks/2014/thumbs/artwork079.jpg
 order: 14160306
-sizeScore: 03
+sizeScore: 02
 ---

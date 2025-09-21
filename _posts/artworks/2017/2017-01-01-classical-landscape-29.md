@@ -7,5 +7,5 @@ caption: "classical landscape #29_oil on canvas_46×53㎝_2017"
 image: /assets/images/artworks/2017/artwork135.jpg
 thumb: /assets/images/artworks/2017/thumbs/artwork135.jpg
 order: 17030529
-sizeScore: 05
+sizeScore: 03
 ---

@@ -7,5 +7,5 @@ caption: "landscape-structure #6_acrylic oil on canvas_150×105㎝_2020"
 image: /assets/images/artworks/2020/landscape-structure-6.jpg
 thumb: /assets/images/artworks/2020/thumbs/landscape-structure-6.jpg
 order: 22070506
-sizeScore: 05
+sizeScore: 06
 ---

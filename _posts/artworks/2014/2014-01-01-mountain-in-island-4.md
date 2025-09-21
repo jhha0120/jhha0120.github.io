@@ -7,5 +7,5 @@ caption: "mountain in island #4_oil on canvas_70×70㎝_2014"
 image: /assets/images/artworks/2014/artwork071.jpg
 thumb: /assets/images/artworks/2014/thumbs/artwork071.jpg
 order: 14160504
-sizeScore: 05
+sizeScore: 04
 ---

@@ -7,6 +7,6 @@ caption: "Nightscape#9_acrylic,oil on canvas_46×53㎝_2021"
 image: /assets/images/artworks/2021/nightscape-9.jpg
 thumb: /assets/images/artworks/2021/thumbs/nightscape-9.jpg
 order: 22010509
-sizeScore: 05
+sizeScore: 03
 orderByYear: 2021052
 ---

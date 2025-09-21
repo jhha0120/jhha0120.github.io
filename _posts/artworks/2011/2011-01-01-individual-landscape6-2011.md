@@ -7,5 +7,5 @@ caption: individual landscape_oil on canvas_115×150㎝_2011
 image: /assets/images/artworks/2011/artwork044.jpg
 thumb: /assets/images/artworks/2011/thumbs/artwork044.jpg
 order: 11140501
-sizeScore: 05
+sizeScore: 06
 ---

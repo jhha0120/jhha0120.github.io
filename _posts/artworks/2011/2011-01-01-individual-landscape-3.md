@@ -7,5 +7,5 @@ caption: "individual landscape #3_oil on canvas_32×32㎝_2011"
 image: /assets/images/artworks/2011/artwork051.jpg
 thumb: /assets/images/artworks/2011/thumbs/artwork051.jpg
 order: 11140303
-sizeScore: 03
+sizeScore: 02
 ---

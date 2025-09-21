@@ -3,7 +3,16 @@
     "allow": [
       "Bash(ruby --version)",
       "Bash(jekyll --version)",
-      "Bash(bundle exec:*)"
+      "Bash(bundle exec:*)",
+      "Bash(mkdir:*)",
+      "Bash(yes)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git checkout:*)",
+      "Bash(python3:*)",
+      "Bash(trash create_favicon.py:*)",
+      "Bash(xargs:*)"
     ],
     "deny": [],
     "ask": []

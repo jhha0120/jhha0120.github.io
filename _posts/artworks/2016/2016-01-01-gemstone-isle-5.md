@@ -7,5 +7,5 @@ caption: "gemstone isle #5_acrylic,oil on canvas_33×41㎝_2016"
 image: /assets/images/artworks/2016/artwork114.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork114.jpg
 order: 17020305
-sizeScore: 03
+sizeScore: 02
 ---

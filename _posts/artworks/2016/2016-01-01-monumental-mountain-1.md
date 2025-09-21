@@ -7,5 +7,5 @@ caption: "monumental mountain #1_acrylic,oil on canvas_205×205㎝_2016"
 image: /assets/images/artworks/2016/artwork088.jpg
 thumb: /assets/images/artworks/2016/thumbs/artwork088.jpg
 order: 17990501
-sizeScore: 05
+sizeScore: 07
 ---

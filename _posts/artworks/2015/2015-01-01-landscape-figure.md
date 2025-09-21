@@ -7,5 +7,5 @@ caption: landscape figure_oil on canvas_150×105㎝_2015
 image: /assets/images/artworks/2015/artwork082.jpg
 thumb: /assets/images/artworks/2015/thumbs/artwork082.jpg
 order: 17180501
-sizeScore: 05
+sizeScore: 06
 ---
