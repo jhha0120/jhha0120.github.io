@@ -7,36 +7,6 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
   <section class="post-content artwork-content">
-    <div class="artwork-nav">
-      {% comment %} Find posts in the same category and sort by order {% endcomment %}
-      {% assign current_category = page.categories | first %}
-      {% assign category_posts = site.posts | where: "categories", current_category | sort: "order" | reverse %}
-
-      {% comment %} Find current post index {% endcomment %}
-      {% assign current_index = nil %}
-      {% for post in category_posts %}
-        {% if post.url == page.url %}
-          {% assign current_index = forloop.index0 %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
-
-      {% comment %} Find previous and next posts {% endcomment %}
-      {% if current_index %}
-        {% assign prev_index = current_index | plus: 1 %}
-        {% assign next_index = current_index | minus: 1 %}
-
-        {% if prev_index < category_posts.size %}
-          {% assign prev_post = category_posts[prev_index] %}
-          <a href="{{ prev_post.url | relative_url }}" class="nav-link prev-link" title="{{ prev_post.title }}">&lt; prev</a>
-        {% endif %}
-
-        {% if next_index >= 0 %}
-          {% assign next_post = category_posts[next_index] %}
-          <a href="{{ next_post.url | relative_url }}" class="nav-link next-link" title="{{ next_post.title }}">next &gt;</a>
-        {% endif %}
-      {% endif %}
-    </div>
     {% if page.image %}
       <section class="post-image artwork-image">
         <table>
