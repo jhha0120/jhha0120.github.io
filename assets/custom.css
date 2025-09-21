@@ -152,7 +152,7 @@ li, p, a, span, h1, h2, h3, h4, h5, h6 {
 /* Fix overay back button issue on tablet */
 @media (max-width: 1024px) {
   .global-wrapper .site-content .post-wrapper aside {
-      top: -2rem;
+      top: -1rem;
   }
 }
 
