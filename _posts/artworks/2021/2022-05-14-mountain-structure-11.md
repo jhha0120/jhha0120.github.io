@@ -6,7 +6,7 @@ title: "mountain-structure#11"
 caption: "mountain-structure#11_acrylic,oil on canvas_33×24㎝_2021"
 image: /assets/images/artworks/2021/mountain-structure-11.jpg
 thumb: /assets/images/artworks/2021/thumbs/mountain-structure-11.jpg
-order: 22080211
+order: 2780
 sizeScore: 02
 orderByYear: 2021043
 ---

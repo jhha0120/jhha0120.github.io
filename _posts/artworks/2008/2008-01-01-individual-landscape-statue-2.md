@@ -6,6 +6,6 @@ title: "statue #2"
 caption: "statue #2_oil on canvas_70×70㎝_2008"
 image: /assets/images/artworks/2008/artwork008.jpg
 thumb: /assets/images/artworks/2008/thumbs/artwork008.jpg
-order: 11990501
+order: 1220
 sizeScore: 04
 ---

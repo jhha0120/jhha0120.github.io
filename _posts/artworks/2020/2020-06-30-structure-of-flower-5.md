@@ -6,6 +6,6 @@ title: "structure of flower #5"
 caption: "structure of flower #5_oil on canvas_33×24㎝_2020"
 image: /assets/images/artworks/2020/structure-of-flower-5.jpg
 thumb: /assets/images/artworks/2020/thumbs/structure-of-flower-5.jpg
-order: 22990201
+order: 2540
 sizeScore: 02
 ---

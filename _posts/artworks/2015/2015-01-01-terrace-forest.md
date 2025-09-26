@@ -6,6 +6,6 @@ title: terrace forest
 caption: terrace forest_oil on canvas_150×105㎝_2015
 image: /assets/images/artworks/2015/artwork081.jpg
 thumb: /assets/images/artworks/2015/thumbs/artwork081.jpg
-order: 17990501
+order: 2210
 sizeScore: 06
 ---

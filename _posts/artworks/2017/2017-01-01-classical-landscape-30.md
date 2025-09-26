@@ -6,6 +6,6 @@ title: "classical landscape #30"
 caption: "classical landscape #30_oil on canvas_46×53㎝_2017"
 image: /assets/images/artworks/2017/artwork136.jpg
 thumb: /assets/images/artworks/2017/thumbs/artwork136.jpg
-order: 17030530
+order: 1980
 sizeScore: 03
 ---

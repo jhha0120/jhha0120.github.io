@@ -6,7 +6,7 @@ title: "Nightscape#7"
 caption: "Nightscape#7_acrylic,oil on canvas_73×61㎝_2021"
 image: /assets/images/artworks/2021/nightscape-7.jpg
 thumb: /assets/images/artworks/2021/thumbs/nightscape-7.jpg
-order: 22010507
+order: 3910
 sizeScore: 04
 orderByYear: 2021055
 ---

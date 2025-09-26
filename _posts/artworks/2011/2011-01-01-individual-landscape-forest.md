@@ -6,6 +6,6 @@ title: individual landscape-forest
 caption: individual landscape-forest_oil on canvas_91×117㎝_2011
 image: /assets/images/artworks/2011/artwork045.jpg
 thumb: /assets/images/artworks/2011/thumbs/artwork045.jpg
-order: 11140501
+order: 1260
 sizeScore: 05
 ---
